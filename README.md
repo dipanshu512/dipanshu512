@@ -8,6 +8,7 @@
 </h2> 
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
+# Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 - :computer: I'm currently working on MERN Stack
 - :hourglass_flowing_sand:  Exploring Google Cloud & Microsoft Azure
