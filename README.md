@@ -6,8 +6,7 @@
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2> 
-
-<h2 align="left"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About Me:</h2>
+<p align="left"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></p><h2> About Me:</h2>
 
 - :computer: I'm currently working on MERN Stack
 - :hourglass_flowing_sand:  Exploring Google Cloud & Microsoft Azure
