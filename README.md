@@ -1,28 +1,16 @@
-<h2 align="left">
- <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Dipanshu Patidar, a pre-final Year student IIT Delhi :computer:<br>
-  <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
- </abc>
-</h2> 
-<h2 align="left">About Me:</h2>
+<h1 align="center">Hi 👋, I'm Dipanshu Patidar</h1>
+<h3 align="center">A pre-final year student at IIT Delhi</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipanshu512&label=Profile%20views&color=0e75b6&style=flat" alt="dipanshu512" /> </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/dipansh93412324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dipansh93412324" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dipanshu-patidar-12323816a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipanshu-patidar-12323816a" height="30" width="40" /></a>
+<a href="https://instagram.com/kedi_iss_jahan_ka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kedi_iss_jahan_ka" height="30" width="40" /></a>
+</p>
 
-<h2 align="left">:heart: Let's get connected:</h2>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Dipanshu_Patidar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dipanshu-patidar-12323816a/)](https://www.linkedin.com/in/dipanshu-patidar-12323816a/) [![Twitter Badge](https://img.shields.io/badge/-@Dipanshu_Patidar-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Dipansh93412324)](https://twitter.com/Dipansh93412324) [![Facebook Badge](https://img.shields.io/badge/-@Dipanshu_Patidar-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/dipanshu.patidar.98)](https://www.facebook.com/dipanshu.patidar.98) [![Instagram Badge](https://img.shields.io/badge/-@Dipanshu_Patidar-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/kedi_iss_jahan_ka/)](https://www.instagram.com/kedi_iss_jahan_ka/)
-[![Linkedin Badge](https://img.shields.io/badge/-Dipanshu_Patidar-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://dipanshu512.github.io/)](https://dipanshu512.github.io/)
-
-<br/>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=dipanshu512&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
-
-<br/>
-
-### Can you break this counter?
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=dipanshu512)
-
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipanshu512&show_icons=true&locale=en" alt="dipanshu512" /></p>
